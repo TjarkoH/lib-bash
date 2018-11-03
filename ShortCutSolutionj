@@ -1,0 +1,7 @@
+Bypass after going from 10.12 > 10.13:
+Copy the old running configuration to the new system
+Restart
+And everything is allright!
+**
+Even when you change the scale on 10.13; the Underscan is not changed anymore.
+
